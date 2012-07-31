@@ -1,0 +1,690 @@
+
+	.t-boutique-p-hsocial ul {
+		list-style: none;
+		padding: 0;
+		margin: 0 5px;
+		text-align: right;
+		
+		z-index: 10;
+		position: relative;
+	}
+	.t-boutique-p-hsocial p.text-social {
+		margin: 0;
+		position: absolute;
+		top: 8px;
+		left: 10px;
+		font-weight: normal;
+		font-size: 0.8em;
+		display: block;
+		width: 90%;
+	}
+	.t-boutique-p-hsocial ul li {
+		display: inline-block;
+	}
+	.t-boutique-p-hsocial ul li a {
+		width: 35px;
+		height: 35px;
+		background-image: url('http://www.onbile.com/nbproject/private/bath_theme/media/img/social-icons.png');
+	}
+	.t-boutique-p-hsocial ul li.facebook a {
+		background-position: -298px -27px;
+	}
+	.t-boutique-p-hsocial ul li.twitter a {
+		background-position: -219px -26px; 
+	}
+	.t-boutique-p-hsocial ul li.dribbble a {
+		background-position: -120px -118px;
+	}
+	.t-boutique-p-hsocial ul li.tumblr a {
+		background-position: -258px -26px;
+	}
+	.t-boutique-p-hsocial ul li.skype a {
+		background-position: -179px -27px;
+	}
+	.t-boutique-p-hsocial ul li.delicious a {
+		background-position: -1px -58px;
+	}
+	.t-boutique-p-hsocial ul li.youtube a {
+		background-position: -53px -27px;
+	}
+	.t-boutique-p-hsocial ul li.google a {
+		background-position: -342px -26px;
+	}
+	.t-boutique-p-hsocial ul li.lastfm a {
+		background-position: 2px -178px;
+	}
+	.t-boutique-p-hsocial ul li.vimeo a {
+		background-position: -97px -26px;
+	}
+	.t-boutique-p-hsocial ul li.myspace a {
+		background-position: -182px -350px;
+	}
+	.t-boutique-p-hsocial ul li.dig a {
+		background-position: -180px 2px;
+	}
+	.t-boutique-p-hsocial ul li.email a {
+		background-position: -10px -26px;
+	}
+	.t-boutique-p-hsocial ul li.linkedin a {
+		background-position: -381px -26px;
+	}
+	.t-boutique-p-hsocial ul li.flickr a{
+		background-position: -420px -26px;
+	}
+
+header.t-boutique-p-header {
+	margin: 0 10px;
+}
+.home header.t-boutique-p-header h1 {
+	border-width: 0px;
+	border: none;
+}
+header.t-boutique-p-header h1 {
+	margin: 12px auto 0 auto;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	padding-bottom: 10px;
+	display: block;
+	width: 100%;
+	position: relative;
+	overflow: hidden;
+}
+header.t-boutique-p-header h1 a {
+	position: relative;
+	overflow: hidden;
+	display: block;
+}
+header.t-boutique-p-header img {
+	border: 0;
+	max-width: 100%;
+	display: block;
+	margin: 0 auto;
+}
+header.t-boutique-p-header img.left {
+	float: left;
+}
+header.t-boutique-p-header img.right {
+	float: right;
+}
+
+
+
+#main.t-boutique-p-page-content {
+	margin: 0 10px;
+}
+#main.t-boutique-p-page-content h2 {
+	margin: 4px 0;
+}
+#main.t-boutique-p-page-content img {
+	display: block;
+	margin: 10px auto 25px auto;
+	border: 0;
+	max-width: 100%;
+}
+
+
+nav.submenu ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+nav.submenu ul li {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	padding: 0 15px;
+}
+nav.submenu ul li a{
+	padding: 10px 15px 10px 0;
+	display: block;
+}
+nav.submenu ul li a:hover {
+	text-decoration: underline;
+}
+nav.submenu ul li:last-child {
+	border: none;
+} 
+nav.submenu ul li.sub-list a {
+	background-image: url("http://www.onbile.com/nbproject/private/bath_theme/media/img/sub-list.png");
+	background-repeat: no-repeat;
+	background-position: center right;
+}
+
+
+.content-footer {
+	margin: 0 10px;
+}
+footer.t-boutique-p-footer {
+	padding: 13px 0 20px 0;
+	border-top-width: 1px;
+	border-top-style: solid;
+	display: block;
+	margin: 0 auto;
+	width: 100%;
+	margin-top: 10px;
+}
+
+#main.t-boutique-p-blogdate {
+	margin: 0 10px;
+}
+#main.t-boutique-p-blogdate ul.news {
+	list-style: none;
+	padding: 0;
+	position: relative;
+	overflow: hidden;
+	margin: 5px 0;
+}
+#main.t-boutique-p-blogdate ul.news li {
+	position: relative;
+	overflow: hidden;
+	margin-bottom: 1px;
+}
+#main.t-boutique-p-blogdate ul.news li a {
+	position: relative;
+	overflow: hidden;
+	display: block;
+	padding: 5px;
+	text-decoration: none;
+}
+#main.t-boutique-p-blogdate ul.news li.more a {
+	padding: 0;
+}
+#main.t-boutique-p-blogdate ul.news li a img 	{
+	float: left;
+	max-width: 40%;
+	margin: 0 10px 0 0;
+}
+#main.t-boutique-p-blogdate ul.news li a time {
+	float: left;
+	font-size: 0.7em;
+	width: 55%;
+	line-height: 1;
+	margin-top: 4px;
+}
+#main.t-boutique-p-blogdate ul.news li a h3 {
+	float: left;
+	margin: 0;
+	line-height: 1;
+	width: 55%;
+}
+#main.t-boutique-p-blogdate ul.news li.more, #main.t-boutique-p-blogdate ul.gallery-list li.more {
+	margin: 10px 0;
+	position: relative;
+}
+#main.t-boutique-p-blogdate ul.news li.more a p, #main.t-boutique-p-blogdate ul.gallery-list li.more a p {
+	text-transform: uppercase;
+	padding-left: 20px;
+	line-height: 1.3em;
+}
+#main.t-boutique-p-blogdate ul.news li.more a:hover p, #main.t-boutique-p-blogdate ul.gallery-list li.more a:hover p {
+	text-decoration: underline;
+}
+#main.t-boutique-p-blogdate ul.news li.more a p:before, 
+#main.t-boutique-p-blogdate ul.gallery-list li.more a p:before {
+	content: "";
+	display:inline-block;
+	width: 12px;
+	height: 11px;
+	background-image: url('http://www.onbile.com/nbproject/private/bath_theme/media/img/sub-list.png');
+	position: absolute;
+	top: 22px;
+	right: 27px;
+}
+
+#main.t-boutique-p-blogdate ul.date li a time {
+	width: 60px;
+	height: 60px;
+	text-align: center;
+	margin: 0 10px 0 0;
+}
+#main.t-boutique-p-blogdate ul.date li a time span {
+	display: block;
+}
+#main.t-boutique-p-blogdate ul.date li a time span.d {font-size: 2.5em;}
+#main.t-boutique-p-blogdate ul.date li a time span.m {font-size: 1.2em; text-transform: uppercase;}
+#main.t-boutique-p-blogdate ul.date li a time span.y {font-size: 1.3em;}
+#main.t-boutique-p-blogdate ul.date li a h3 { width: 75%; }
+
+
+
+
+
+#main.t-boutique-p-post {
+	margin: 0 10px;
+}
+#main.t-boutique-p-post img {
+	display: block;
+	margin: 0 auto;
+	margin-bottom: 10px;
+}
+#main.t-boutique-p-post article time {
+	font-size: 0.7em;
+	text-transform: uppercase;
+}
+#main.t-boutique-p-post article h3 {
+	margin-top: 0;
+	line-height: 1;
+}
+
+.t-boutique-p-post article .back a {
+	position: relative;
+	overflow: hidden;
+	display: block;
+	padding: 13px;
+	text-decoration: none;
+	text-transform: uppercase;
+	padding-left: 20px;
+	line-height: 1.3em;
+	margin: 16px 0;
+}
+.t-boutique-p-post article .back a:before {
+	content: "";
+	display:inline-block;
+	width: 8px;
+	height: 15px;
+	background-image: url('http://www.onbile.com/nbproject/private/bath_theme/media/img/back.png');
+	position: absolute;
+	top: 15px;
+	right: 27px;
+}
+
+
+
+#main.t-boutique-p-home {
+	margin: 20px 10px;
+	position: relative;
+	overflow: hidden;
+	height: 200px;
+}
+.t-boutique-p-search .term {
+	font-size: 1.5em;
+	text-align: center;
+	text-transform: uppercase;
+	margin: 0 0 20px 0;
+}
+
+
+.t-boutique-p-search ul.news {
+	list-style: none;
+	padding: 0;
+	position: relative;
+	overflow: hidden;
+	margin: 5px 0;
+}
+.t-boutique-p-search ul.news li {
+	position: relative;
+	overflow: hidden;
+	margin-bottom: 1px;
+}
+.t-boutique-p-search ul.news li a {
+	position: relative;
+	overflow: hidden;
+	display: block;
+	padding: 5px;
+	text-decoration: none;
+}
+
+
+
+
+.searchInfo {
+	position: relative;
+	overflow: hidden;
+	padding: 5px;
+}
+.searchNum {
+	float: left;
+	width: 63px;
+	height: 63px;
+	text-align: center;
+	margin: 0 40px 0 0;
+	font-size: 3em !important;
+	line-height: 1.3em;
+}
+.searchFor {
+	float: left;
+	margin: 0;
+	font-size: .9em;
+	line-height: 1.2em;
+	width: 50%;
+}
+.searchFor span {
+	display: block;
+	font-size: 1.3em;
+	text-transform: uppercase;
+}
+ul.results {
+	margin: 0 0 20px 0;
+	padding: 0;
+	list-style: none;
+}
+ul.results li {
+	padding: 10px;
+	margin-top: 1px;
+}
+ul.results li a {
+	text-decoration: none;
+}
+ul.results li a p {
+	padding: 0;
+	margin: 0;
+}
+
+nav.t-boutique-p-menu {
+	margin: 0;
+}
+nav.t-boutique-p-menu ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+nav.t-boutique-p-menu ul li {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+nav.t-boutique-p-menu ul li a{
+	padding: 10px 15px;
+	display: block;
+}
+nav.t-boutique-p-menu ul li a:hover {
+	text-decoration: underline;
+}
+nav.t-boutique-p-menu ul li:last-child {
+	border: none;
+} 
+nav.t-boutique-p-menu ul li.sub-list a {
+	background-img: url("http://www.onbile.com/nbproject/private/bath_theme/media/img/sub-list.png");
+	background-repeat: no-repeat;
+	background-position:  center right;
+}
+
+
+#main.t-boutique-p-gallerygrid {
+	margin: 0 10px;
+}
+#main.t-boutique-p-gallerygrid ul.gallery-grid {
+	list-style: none;
+	padding: 0;
+	position: relative;
+	overflow: hidden;
+	margin: 0;
+}
+#main.t-boutique-p-gallerygrid ul.gallery-grid li {
+	position: relative;
+	overflow: hidden;
+}
+#main.t-boutique-p-gallerygrid ul.gallery-grid li a {
+	text-decoration: none;
+	text-transform: uppercase;
+	display: block;
+}
+#main.t-boutique-p-gallerygrid ul.gallery-grid li {
+	float: left;
+	width: 48%;
+	margin: 0 12px 12px 0;
+}
+#main.t-boutique-p-gallerygrid ul.gallery-grid li:nth-child(even) {
+	margin-right: 0px;
+}
+@media only screen and (min-width: 480px) {
+	#main.t-boutique-p-gallerygrid ul.gallery-grid li, #main.t-boutique-p-gallerygrid ul.gallery-grid li:nth-child(even) {
+		width: 31%;
+		margin-right: 15px;
+	}
+	#main.t-boutique-p-gallerygrid ul.gallery-grid li:nth-child(3n+3) {
+		margin-right: 0px;
+	}
+}
+#main.t-boutique-p-gallerygrid ul.gallery-grid li img {
+	margin: 0px auto;
+	display: block;
+}
+#main.t-boutique-p-gallerygrid ul.gallery-grid li a {
+	line-height: 11px;
+	text-align: center;
+}
+#main.t-boutique-p-gallerygrid ul.gallery-grid li a p {
+	margin: 12px 0 6px 0;
+}
+#main.t-boutique-p-gallerygrid ul.gallery-grid li.more {
+	height: 173px;
+}
+#main.t-boutique-p-gallerygrid ul.gallery-grid li.more a {
+	position: relative;
+	height: 173px;
+	display: block;
+	top: -12px;
+}
+#main.t-boutique-p-gallerygrid ul.gallery-grid li.more a p {
+	padding-top: 64px;
+	top: 12px;
+	position: relative;
+}
+#main.t-boutique-p-gallerygrid ul.gallery-grid li.more a:before {
+	content: "";
+	display:inline-block;
+	width: 12px;
+	height: 11px;
+	background-image: url('http://www.onbile.com/nbproject/private/bath_theme/media/img/sub-list.png');
+	position: absolute;
+	top: 80px;
+	left: 125px;
+}
+#main.t-boutique-p-gallerygrid ul.gallery-grid li a span.price {
+	top: 121px;
+	padding: 4px 14px;
+	font-size: .7em;
+	position: absolute;
+	left: 50%;
+	margin-left: -28px;
+	
+}
+
+
+
+.t-boutique-p-single {
+	margin: 0 10px;
+}
+.t-boutique-p-single h4 {
+	font-size: 1.3em;
+}
+.t-boutique-p-single .subtitle {
+	padding: 10px 0;
+	line-height: 1em;
+}
+.t-boutique-p-single .price { 
+	text-align: center;
+	margin-bottom: 18px;
+}
+.t-boutique-p-single .price span {
+	padding: 8px 40px;
+	font-size: 1.5em;
+}
+.t-boutique-p-single .detailsTable {
+	padding: 27px;
+	margin-bottom: 15px;
+	font-family: Arial, "MS Trebuchet", sans-serif;
+}
+.t-boutique-p-single .detailsTable h4 {
+	text-align: left;
+	margin: -4px 0 4px 0;
+	line-height: 0em;
+	font-size: 1.1em;
+}
+.t-boutique-p-single #addtocart {
+	position: relative;
+	overflow: hidden;
+}
+.t-boutique-p-single #addtocart #selectModel {
+	box-sizing: initial;
+	border-style: solid;
+	border-width: 5px;
+	height: 30px;
+	-webkit-border-radius: none;
+	width: 47%;
+}
+.t-boutique-p-single #addtocart #submitCart {
+	border: none;
+	padding: 11px 16px;
+	font-size: 1em;
+	text-transform: uppercase;
+	width: 47%;
+	float: right;
+}
+
+.t-boutique-p-single #addtocart #submitCart:hover {
+	cursor: pointer;
+}
+
+.t-boutique-p-single .detailsTable ul.specsList {
+	list-style: none;
+	padding: 0;
+}
+.t-boutique-p-single .detailsTable ul.specsList li {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	height: 100%;
+	overflow: hidden;
+	padding: 2px 0 14px 0;
+}
+.t-boutique-p-single .detailsTable ul.specsList li:first-child {
+	border-top-style: solid;
+	border-top-width: 1px;
+}
+.t-boutique-p-single .detailsTable ul.specsList li .def {
+	float: left;
+	width: 40%;
+	font-size: .733em;
+	margin: 4px 0;
+	text-transform: uppercase;
+}
+.t-boutique-p-single .detailsTable ul.specsList li .val {
+	float: right;
+	width: 55%;
+	font-size: 0.8em;
+	line-height: 1em;
+	padding: 6px 0 3px;
+}
+
+.t-boutique-p-single .detailsTable ul.detailList {
+	font-size: 0.8em;
+	line-height: 1.4em;
+	padding-left: 15px;
+	margin-bottom: 0;
+}
+.t-boutique-p-single .detailsTable ul.detailList .footnotes {
+	padding: 0;
+	list-style: none;
+	font-family: Georgia, serif;
+	font-style: italic;
+	text-transform: none;
+	margin-left: -15px;
+	
+}
+.t-boutique-p-single .detailsTable ul.detailList .footnotes p {
+	font-size: 1em !important;
+	margin: 15px 0 0 0;
+}
+
+.t-boutique-p-single .back a {
+	position: relative;
+	overflow: hidden;
+	display: block;
+	padding: 13px;
+	text-decoration: none;
+	text-transform: uppercase;
+	padding-left: 20px;
+	line-height: 1.3em;
+	margin: 16px 0;
+}
+.t-boutique-p-single .back a:before {
+	content: "";
+	display:inline-block;
+	width: 8px;
+	height: 15px;
+	background-image: url('http://www.onbile.com/nbproject/private/bath_theme/media/img/back.png');
+	position: absolute;
+	top: 15px;
+	right: 27px;
+}
+
+
+.t-boutique-p-contact {
+	margin: 0 10px;
+}
+.t-boutique-p-contact .adress {
+	line-height: 1.4em;
+	margin-top: 0;
+	margin-bottom: 20px;
+}
+.t-boutique-p-contact .adress p {
+	margin: 0;
+	padding: 0;
+}
+.t-boutique-p-contact .adress span {
+	display: block;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+.t-boutique-p-contact .map {
+	position: relative;
+	display: block;
+	width: 300px;
+	height: 290px;
+	margin: 0 auto;
+}
+.t-boutique-p-contact .map img { 
+	border-style: solid;
+	border-width: 5px;
+}
+.t-boutique-p-contact .map:before {
+	content: "";
+	display:inline-block;
+	width: 22px;
+	height: 22px;
+	background-image: url('http://www.onbile.com/nbproject/private/bath_theme/media/img/external-link.png');
+	position: absolute;
+	top: 5px;
+	right: 5px;
+}
+.t-boutique-p-contact ul.getcontact {
+	position: relative;
+	overflow: hidden;
+	list-style: none;
+	margin: 10px 0 15px 0;
+	padding: 0;
+}
+.t-boutique-p-contact ul.getcontact li {
+	display: inline;
+	float: left;
+	width: 48%;
+	position: relative;
+}
+.t-boutique-p-contact ul.getcontact li a {
+	border: none;
+	padding: 11px 16px;
+	font-size: 1em;
+	text-transform: uppercase;
+	display: block;
+	text-decoration: none;
+	padding-left: 23%;
+	min-height: 24px;
+}
+.t-boutique-p-contact ul.getcontact li a:hover {
+	text-decoration: underline;
+}
+.t-boutique-p-contact ul.getcontact li:first-child {
+	margin-right: 12px;
+}
+.t-boutique-p-contact ul.getcontact li.email a:before, .t-boutique-p-contact ul.getcontact li.callus a:before {
+	content: "";
+	display:inline-block;
+	width: 19px;
+	height: 12px;
+	background-image: url('http://www.onbile.com/nbproject/private/bath_theme/media/img/ico-mail.png');
+	position: absolute;
+	top: 15px;
+	left: 7%;
+}
+.t-boutique-p-contact ul.getcontact li.callus a:before {
+	background-image: url('http://www.onbile.com/nbproject/private/bath_theme/media/img/ico-phone.png');
+}

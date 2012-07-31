@@ -1,0 +1,78 @@
+body {
+	background-color: #f7f7f7;
+}
+body, .t-boutique-p-post .paragraph a, .t-boutique-p-footer .footer a, #main ul.gallery-grid li a, #main ul.gallery-list li a, #main ul.news li a h3, .t-boutique-p-contact p.adress, 
+.post article h3, .search h3, .detailsTable ul.specsList li .val, ul.results li a p {
+	color: #506485;
+}
+
+header h1, header form, header a.back, header form input#submit, 
+#addtocart #selectModel, .detailsTable ul.specsList li, .detailsTable ul.specsList li:first-child,
+ul.articlesCart, ul.detailCart, ul.totalCart, footer, .border {
+	border-color: #424242;
+}
+header form input#submit {
+	border-color: #424242 !important;
+}
+.logo{
+	color: #424242;;
+}
+h3, #main ul.news li a time, .post article time, .search .searchNum, .detailsTable ul.specsList li .def {
+	color: #424242;
+}
+header form, .detailsTable, .search .searchNum, .t-boutique-p-single #addtocart #selectModel, 
+#main.t-boutique-p-ecogallerygrid ul.gallery-grid li, #main.t-boutique-p-blog ul.news li,
+#main.t-boutique-p-ecogallerylist ul.gallery-list li, #main.t-boutique-p-gallerygrid ul.gallery-grid li,
+#main.t-boutique-p-gallerylist ul.gallery-list li, #main.t-boutique-p-search ul.gallery-list li,
+#main.t-boutique-p-search ul.news li, .t-boutique-p-single #addtocart #selectModel,
+#main.t-boutique-p-blogdate ul.news li, .searchInfo, ul.results li {
+	background-color: #c2c8d1;
+}	
+header a.back, header form input#submit, #main ul.gallery-grid li.more, .t-boutique-p-hsocial, 
+#addtocart #submitCart, #main ul.news li.more, #main ul.gallery-list li.more,
+.t-boutique-p-contact ul.getcontact li a, ul.articlesCart li span.edit, .checkout, nav ul, nav ul li.sub-list a,
+.menu, .t-boutique-p-single .back a, .t-boutique-p-post article .back a, .t-boutique-p-contact .map:before {
+	background-color: #506485;
+}
+#main ul.gallery-grid li a span.price, #main ul.gallery-list li a span.price, 
+.detail .price span, .detail .price span, ul.articlesCart li span.price, .search .searchInfo,
+#main.t-boutique-p-search ul.gallery-list li a span.price {
+	background-color: #424242;
+}
+#main ul.gallery-grid li.more a, .detail .price span, #main ul.news li.more a p, 
+#main ul.gallery-list li.more a p, nav ul li, nav ul li a, #main ul.date li a time span.m,
+.t-boutique-p-single .back a, .t-boutique-p-post article .back a, .t-boutique-p-hsocial p.text-social {
+	color: #f7f7f7;
+}
+
+
+#main ul.date li a time, .searchNum {
+	background-color: #424242;
+}
+#main ul.date li a time span.d, .search .searchFor, #main.t-boutique-p-ecogallerygrid ul.gallery-grid li a span.price {color: #c2c8d1;}
+#main ul.date li a time span.y {color: #69a3ff;}
+
+.t-boutique-p-single #addtocart #submitCart, .t-boutique-p-contact ul.getcontact li a, 
+#main.t-boutique-p-cart ul.articlesCart li span.price, #main.t-boutique-p-cart .checkout,
+#main.t-boutique-p-ecogallerylist ul.gallery-list li a span.price,
+#main.t-boutique-p-gallerygrid ul.gallery-grid li a span.price,
+#main.t-boutique-p-gallerylist ul.gallery-list li a span.price,
+#main.t-boutique-p-search ul.gallery-list li a span.price, .t-boutique-p-single #addtocart #submitCart,
+#main.t-boutique-p-blogdate ul.date li a time span.d, .searchNum {
+	color: #c2c8d1;
+}
+
+.t-boutique-p-contact .map img {
+	border-color: #c2c8d1;
+}
+.search p.no-results span {
+	color: #FF0000;
+}
+nav ul li {
+	border-color: #f7f7f7;
+}
+
+body.home {
+	background-color: #ffffff;
+}
+.logo {text-align : center ;font-style : normal ;text-decoration : none ;font-size : 2em ;font-family : 'ProximaNovaSemibold' ;} .title {text-align : left ;font-style : normal ;text-decoration : none ;font-size : 1.5em ;font-family : 'ProximaNovaSemibold' ;} .title2 {text-align : left ;font-style : normal ;text-decoration : none ;font-size : 1.3em ;font-family : 'ProximaNovaSemibold' ;} .title3 {text-align : left ;font-style : normal ;text-decoration : none ;font-size : 0.9em ;font-family : 'ProximaNovaSemibold' ;} .title4 {text-align : center ;font-style : normal ;text-decoration : none ;font-size : 0.9em ;font-family : 'ProximaNovaSemibold' ;} .subtitle {text-align : center ;font-style : normal ;text-decoration : none ;font-size : 1.3em ;font-family : 'ProximaNovaSemibold' ;} .paragraph {text-align : left ;font-style : normal ;text-decoration : none ;font-size : 0.8em ;font-family : 'Arial' ;} .paragraph2 {text-align : center ;font-style : normal ;text-decoration : none ;font-size : 0.8em ;font-family : 'Arial' ;} .footer {text-align : center ;font-style : normal ;font-size : 0.7em ;font-family : 'ProximaNovaSemibold' ;} .menu {text-align : center ;font-style : normal ;text-decoration : none ;font-size : 0.9em ;font-family : 'ProximaNovaSemibold' ;} .button {text-align : center ;font-style : normal ;text-decoration : none ;font-size : 1em ;font-family : 'ProximaNovaSemibold' ;} 
