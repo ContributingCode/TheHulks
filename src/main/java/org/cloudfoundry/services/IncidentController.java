@@ -85,8 +85,8 @@ public class IncidentController {
 		
 		
 		//EmailNotificationMgr a = new EmailNotificationMgr();
-		//EmailNotificationMgr.initEmailNotificationMgr();
-		//EmailNotificationMgr.sendMail(incident.getCause(), incident.getLatitude(), incident.getLongitude());
+		EmailNotificationMgr.initEmailNotificationMgr();
+		EmailNotificationMgr.sendMail(incident.getCause(), incident.getLatitude(), incident.getLongitude());
 		
 		
 		//myincidents = mongoTemplate.find(new Query(where("id").gte(0)), Incident.class);
